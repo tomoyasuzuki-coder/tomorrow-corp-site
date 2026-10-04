@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tomorrow-corp.co.jp/sitemap.xml
